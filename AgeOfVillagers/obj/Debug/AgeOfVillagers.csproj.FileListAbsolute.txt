@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\bin\Debug\AgeOfVillagers.exe.config
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\bin\Debug\AgeOfVillagers.exe
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\bin\Debug\AgeOfVillagers.pdb
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.Properties.Resources.resources
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.VillageWindow.resources
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.csproj.CopyComplete
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.exe
+C:\Users\Home\Desktop\Age-of-Villagers--testing\Age-of-Villagers\solutions\88-musfik\AgeOfVillagers\obj\Debug\AgeOfVillagers.pdb
